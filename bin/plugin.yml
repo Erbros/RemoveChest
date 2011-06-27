@@ -1,0 +1,13 @@
+name: RemoveChest
+main: net.erbros.RemoveChest.RemoveChest
+version: 0.1.0
+author: Erbros
+website: www.erbros.net
+commands:
+  removechest:
+    description: Removes container and its inventory from world.
+    usage: |
+           /<command>
+           Example: /<command> | Displays Permissions Info
+           Example: /<command> -reload all | Reloads the default world configuration
+           Example: /<command> -reload [world] | Reloads the [world] configuration file
